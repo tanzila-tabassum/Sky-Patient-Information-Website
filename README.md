@@ -2,6 +2,11 @@
 # Project Description
 The project showcases the User Journey of the website which is build for the patient's information and about the product in health industry.
 The Script automated inside the project showcases all the posible conditions for a user when a user will visit the website.
+
+The automated script will be useful for a tester to do a sanity test for the website during any deployment.
+
+![Retestworkflow2](https://user-images.githubusercontent.com/25485530/228089884-69093acd-9813-4b29-bc33-54bd9f100906.png)
+
 # Technology Used
 **Technology** - Cypress, Adobe Experience Manager (CMS)
 
